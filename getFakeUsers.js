@@ -21,5 +21,5 @@ for (let i = 0; i < n; i++) {
     arrayOfObjects.push(newObj);
 }
 
-console.log(arrayOfObjects)
+//console.log(arrayOfObjects)
 module.exports=arrayOfObjects; 
