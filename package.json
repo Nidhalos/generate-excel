@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "casual": "^1.6.2",
+    "faker": "^6.6.6",
     "xlsx-populate": "^1.21.0"
   }
 }
